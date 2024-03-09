@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+  <package>
+    <group>windows</group>
+    <name>Jeu_1</name>
+    <description>Jeu 1</description>
+    <version></version>
+    <packager>PlayerPack</packager>
+    <url></url>
+    <download_size>2092.1953125</download_size>
+    <installed_size>2092.1953125</installed_size>
+    <game system="windows">
+      <path>./jeu 1.pc</path>
+      <name>Jeu 1</name>
+      <desc>textjeu1___</desc>
+      <rating>0.8</rating>
+      <releasedate>20221215T000000</releasedate>
+      <players>1</players>
+      <image>./images/jeu 1-thumb.png</image>
+      <video>./videos/jeu 1-video.mp4</video>
+      <marquee>./images/jeu 1-marquee.png</marquee>
+      <thumbnail>./images/jeu 1-image.png</thumbnail>
+      <manual></manual>
+      <developer>StudioA</developer>
+      <publisher>StudioB</publisher>
+      <genre></genre>
+ <description></description>
+ </game>
+ </package>
+  <package>
+    <group>windows</group>
+    <name>Jeu2</name>
+    <description>Jeu2</description>
+    <version></version>
+    <packager>PlayerPack</packager>
+    <url></url>
+    <download_size>3680.89453125</download_size>
+    <installed_size>3680.89453125</installed_size>
+    <game system="windows">
+      <path>./jeu2.pc</path>
+      <name>Jeu2</name>
+      <desc>textjeu2</desc>
+      <rating>0.9</rating>
+      <releasedate>20211015T000000</releasedate>
+      <players>1-2</players>
+      <image>./images/jeu2-thumb.png</image>
+      <video>./videos/jeu2-video.mp4</video>
+      <marquee>./images/jeu2-marquee.png</marquee>
+      <thumbnail>./images/jeu2-image.png</thumbnail>
+      <manual></manual>
+      <developer>StudioB</developer>
+      <publisher>StudioC</publisher>
+      <genre></genre>
+ <description></description>
+ </game>
+ </package>
+</packages>
+
